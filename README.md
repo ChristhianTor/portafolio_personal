@@ -6,7 +6,8 @@ Este es mi portafolio web personal donde muestro mis proyectos más importantes 
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript
+- Python
 
 ## Características
 
